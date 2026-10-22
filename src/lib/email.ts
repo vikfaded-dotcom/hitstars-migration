@@ -1,6 +1,6 @@
 import { Resend } from "resend";
 
-const resend = new Resend(process.env.RESEND_API_KEY || "re_8MW2tLbr_PvXHYMbmP8sUkqfNinPHXfqk");
+const resend = new Resend(process.env.RESEND_API_KEY || "re_iVRL2YHD_NgV7TkXEMydCAta8XRhP9PGX");
 
 const CORPORATE_COLORS = {
   background: "#0a0a0c",
